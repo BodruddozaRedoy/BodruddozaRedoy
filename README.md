@@ -31,15 +31,12 @@ A web app built using React, React Router, and Firebase for authentication and r
 - **Tech Stack**: React.js, Firebase, Tailwind CSS  
 - **Features**: User authentication, dynamic routing, and responsive design  
 
-### 2️⃣ [Todo Application](#)  
+### 2️⃣ Gadget Heaven with Mern(https://github.com/BodruddozaRedoy/Gadget-Heaven-with-Mern-Stack)  
 A simple but effective todo app to manage tasks, showcasing CRUD operations using **Express.js** and MongoDB.  
 - **Tech Stack**: React.js, Node.js, Express.js, MongoDB  
 - **Features**: Add, edit, delete, and filter tasks  
 
-### 3️⃣ [E-Commerce App (MERN)](#)  
-A full-stack e-commerce project featuring a product catalog, filtering options, and a shopping cart.  
-- **Tech Stack**: React.js, Node.js, Express.js, MongoDB  
-- **Features**: Pagination, RESTful API, and product filtering  
+
 
 ---
 
