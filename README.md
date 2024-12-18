@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Bodruddoza Redoy
 
 I'm a **Junior MERN Stack Developer** passionate about building user-friendly web applications and learning new technologies to solve real-world problems.
 
@@ -9,13 +9,13 @@ I'm a **Junior MERN Stack Developer** passionate about building user-friendly we
 - 🌱 I’m improving my expertise in **MongoDB Aggregation** and **REST API development**.
 - 👯 I’m looking to collaborate on **open-source MERN projects**.
 - 💬 Ask me about **JavaScript**, **React**, or **Node.js**.
-- 📫 How to reach me: **[your.email@example.com](mailto:your.email@example.com)**.
+- 📫 How to reach me: **bodruddozaredoy@gmail.com(mailto:bodruddozaredoy@gmail.com)**.
 - ⚡ Fun fact: I love solving coding challenges and exploring new tools.
 
 ---
 
 ## 🛠️ Technologies & Tools  
-- **Frontend**: HTML, CSS, JavaScript, React.js, Tailwind CSS  
+- **Frontend**: HTML, CSS, JavaScript, React.js, Tailwind CSS and Other UI  
 - **Backend**: Node.js, Express.js  
 - **Database**: MongoDB  
 - **Tools**: Git, VS Code, Postman, NPM  
@@ -51,9 +51,9 @@ A full-stack e-commerce project featuring a product catalog, filtering options, 
 
 ## 🔗 Connect With Me  
 - 🌐 [Portfolio](#)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/YourProfile/)  
-- 🐦 [Twitter](https://twitter.com/YourHandle)  
-- 📧 [Email](mailto:your.email@example.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/bodruddoza-redoy-637789197/)  
+- 🐦 [TwitterX](https://x.com/BodruddozaRedoy)  
+- 📧 [Email](mailto:bodruddozaredoy@gmail.com)  
 
 ---
 
