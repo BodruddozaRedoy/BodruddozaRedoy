@@ -26,7 +26,7 @@ I'm a **Junior MERN Stack Developer** passionate about building user-friendly we
 ## 🖥️ My Projects  
 Here are a few of my recent projects:
 
-### 1️⃣ [Career Counseling Platform](#)  
+### 1️⃣ Sports Horizon(https://github.com/BodruddozaRedoy/Sports-Horizon-with-Mern-Stack)  
 A web app built using React, React Router, and Firebase for authentication and routing. It offers personalized career guidance.  
 - **Tech Stack**: React.js, Firebase, Tailwind CSS  
 - **Features**: User authentication, dynamic routing, and responsive design  
