@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi there! 👋 I'm [Your Name]
 
-<!--
-**BodruddozaRedoy/BodruddozaRedoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Junior MERN Stack Developer** passionate about building user-friendly web applications and learning new technologies to solve real-world problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me  
+- 🔭 I’m currently learning **Express.js** and building a **Todo App** to enhance my backend skills.
+- 🌱 I’m improving my expertise in **MongoDB Aggregation** and **REST API development**.
+- 👯 I’m looking to collaborate on **open-source MERN projects**.
+- 💬 Ask me about **JavaScript**, **React**, or **Node.js**.
+- 📫 How to reach me: **[your.email@example.com](mailto:your.email@example.com)**.
+- ⚡ Fun fact: I love solving coding challenges and exploring new tools.
+
+---
+
+## 🛠️ Technologies & Tools  
+- **Frontend**: HTML, CSS, JavaScript, React.js, Tailwind CSS  
+- **Backend**: Node.js, Express.js  
+- **Database**: MongoDB  
+- **Tools**: Git, VS Code, Postman, NPM  
+- **Other Skills**: REST API design, JWT Authentication, Firebase (Authentication & Hosting)
+
+---
+
+## 🖥️ My Projects  
+Here are a few of my recent projects:
+
+### 1️⃣ [Career Counseling Platform](#)  
+A web app built using React, React Router, and Firebase for authentication and routing. It offers personalized career guidance.  
+- **Tech Stack**: React.js, Firebase, Tailwind CSS  
+- **Features**: User authentication, dynamic routing, and responsive design  
+
+### 2️⃣ [Todo Application](#)  
+A simple but effective todo app to manage tasks, showcasing CRUD operations using **Express.js** and MongoDB.  
+- **Tech Stack**: React.js, Node.js, Express.js, MongoDB  
+- **Features**: Add, edit, delete, and filter tasks  
+
+### 3️⃣ [E-Commerce App (MERN)](#)  
+A full-stack e-commerce project featuring a product catalog, filtering options, and a shopping cart.  
+- **Tech Stack**: React.js, Node.js, Express.js, MongoDB  
+- **Features**: Pagination, RESTful API, and product filtering  
+
+---
+
+## 📊 GitHub Stats  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+
+---
+
+## 🔗 Connect With Me  
+- 🌐 [Portfolio](#)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/YourProfile/)  
+- 🐦 [Twitter](https://twitter.com/YourHandle)  
+- 📧 [Email](mailto:your.email@example.com)  
+
+---
+
+⭐️ *Let’s build something awesome together!*
