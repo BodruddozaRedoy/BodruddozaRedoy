@@ -32,7 +32,7 @@ A web app built using React, React Router, and Firebase for authentication and r
 - **Features**: User authentication, dynamic routing, and responsive design  
 
 ### 2️⃣ Gadget Heaven with Mern(https://github.com/BodruddozaRedoy/Gadget-Heaven-with-Mern-Stack)  
-A simple but effective todo app to manage tasks, showcasing CRUD operations using **Express.js** and MongoDB.  
+A web app built using React, React Router, and Firebase for authentication and routing. It offers various types gadgets.  
 - **Tech Stack**: React.js, Node.js, Express.js, MongoDB  
 - **Features**: Add, edit, delete, and filter tasks  
 
