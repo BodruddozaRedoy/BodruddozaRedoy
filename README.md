@@ -39,7 +39,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭  I’m currently learning Express.js and building an Inventory Management App to enhance my backend skills.<br>- 🌱 I’m improving my expertise in MongoDB Aggregation and REST API development.<br>- 👯 I’m looking to collaborate on open-source MERN projects.<br>- 💬 Ask me about JavaScript, React, or Node.js.<br>- 📫 How to reach me: bodruddozaredoy@gmail.com(mailto:bodruddozaredoy@gmail.com).<br>- ⚡ Fun fact: I love solving coding challenges and exploring new tools.</p>
+<p align="left">I'm from Dhaka, Bangladesh<br><br>- 🔭  I’m currently learning Express.js and building an Inventory Management App to enhance my backend skills.<br>- 🌱 I’m improving my expertise in MongoDB Aggregation and REST API development.<br>- 👯 I’m looking to collaborate on open-source MERN projects.<br>- 💬 Ask me about JavaScript, React, or Node.js.<br>- 📫 How to reach me: bodruddozaredoy@gmail.com(mailto:bodruddozaredoy@gmail.com).<br>- ⚡ Fun fact: I love solving coding challenges and exploring new tools.</p>
 
 ###
 
@@ -98,14 +98,6 @@
 ###
 
 <h3 align="left"> 📊 GitHub Stats</h3>
-
-###
-
-<div align="center">
-  <img href="https://github-readme-stats.vercel.app/api?username=BodruddozaRedoy&show_icons=true&theme=radical" height="220" alt="streak graph" />
-  <img href="https://streak-stats.demolab.com?user=BodruddozaRedoy&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
-    
 
 ###
 
