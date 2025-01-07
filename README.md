@@ -101,8 +101,8 @@
 ###
 
 <div align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=BodruddozaRedoy&show_icons=true&theme=radical" target="_blank">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=BodruddozaRedoy&layout=compact&theme=radical" target="_blank">
+  <img href="https://github-readme-stats.vercel.app/api?username=BodruddozaRedoy&show_icons=true&theme=radical" target="_blank">
+  <img href="https://github-readme-stats.vercel.app/api/top-langs/?username=BodruddozaRedoy&layout=compact&theme=radical" target="_blank">
 </div>
     
   </a>
