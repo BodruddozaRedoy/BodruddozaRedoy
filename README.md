@@ -1,65 +1,109 @@
-# Hi there! 👋 I'm Bodruddoza Redoy
+<div align="center">
+  <img height="300" src="https://github.com/BodruddozaRedoy/BodruddozaRedoy/blob/main/MyGithubBanner.jpg?raw=true"  />
+</div>
 
-I'm a **Junior MERN Stack Developer** passionate about building user-friendly web applications and learning new technologies to solve real-world problems.
+###
 
----
+<div align="center">
+  <a href="https://www.linkedin.com/in/bodruddoza-redoy-637789197/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/BodruddozaRedoy" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <a href="https://www.facebook.com/bodruddozaredoy" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  </a>
+  <a href="https://wa.me/01618514469?text=Hello%20there!%20I%27d%20like%20to%20connect%20with%20you." target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  </a>
+</div>
 
-## 🌟 About Me  
-- 🔭 I’m currently learning **Express.js** and building a **Todo App** to enhance my backend skills.
-- 🌱 I’m improving my expertise in **MongoDB Aggregation** and **REST API development**.
-- 👯 I’m looking to collaborate on **open-source MERN projects**.
-- 💬 Ask me about **JavaScript**, **React**, or **Node.js**.
-- 📫 How to reach me: **bodruddozaredoy@gmail.com(mailto:bodruddozaredoy@gmail.com)**.
-- ⚡ Fun fact: I love solving coding challenges and exploring new tools.
+###
 
----
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=BodruddozaRedoy.BodruddozaRedoy&"  />
+</div>
 
-## 🛠️ Technologies & Tools  
-- **Frontend**: HTML, CSS, JavaScript, React.js, Tailwind CSS and Other UI  
-- **Backend**: Node.js, Express.js  
-- **Database**: MongoDB  
-- **Tools**: Git, VS Code, Postman, NPM  
-- **Other Skills**: REST API design, JWT Authentication, Firebase (Authentication & Hosting)
+###
 
----
+<h1 align="center">Hey there 👋 I'm Bodruddoza Redoy</h1>
 
-## 🖥️ My Projects  
-Here are a few of my recent projects:
+###
 
-### 1️⃣ Sports Horizon(https://github.com/BodruddozaRedoy/Sports-Horizon-with-Mern-Stack)  
-A web app built using React, React Router, and Firebase for authentication and routing. It offers personalized career guidance.  
-- **Tech Stack**: React.js, Firebase, Tailwind CSS  
-- **Features**: User authentication, dynamic routing, and responsive design  
+<h5 align="center">I'm a Junior MERN Stack Developer passionate about building user-friendly web applications and learning new technologies to solve real-world problems.</h5>
 
-### 2️⃣ Gadget Heaven with Mern(https://github.com/BodruddozaRedoy/Gadget-Heaven-with-Mern-Stack)  
-A web app built using React, React Router, and Firebase for authentication and routing. It offers various types gadgets.  
-- **Tech Stack**: React.js, Node.js, Express.js, MongoDB  
-- **Features**: User authentication, dynamic routing, dynamic products, admin panel, and responsive design
+###
 
+<h3 align="left">👩‍💻  About Me</h3>
 
+###
 
----
+<p align="left">I'm ... from ....<br><br>- 🔭  I’m currently learning Express.js and building an Inventory Management App to enhance my backend skills.<br>- 🌱 I’m improving my expertise in MongoDB Aggregation and REST API development.<br>- 👯 I’m looking to collaborate on open-source MERN projects.<br>- 💬 Ask me about JavaScript, React, or Node.js.<br>- 📫 How to reach me: bodruddozaredoy@gmail.com(mailto:bodruddozaredoy@gmail.com).<br>- ⚡ Fun fact: I love solving coding challenges and exploring new tools.</p>
 
-## 📊 GitHub Stats  
+###
+
+<h3 align="left">🛠️ Technologies & Tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
+</div>
+
+###
+
+<h3 align="left">🛠️ External Skills</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+</div>
+
+###
+
+<h3 align="left"> 📊 GitHub Stats</h3>
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=BodruddozaRedoy&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BodruddozaRedoy&layout=compact&theme=radical)
-
----
-
-## 🔗 Connect With Me  
-- 🌐 [Portfolio](#)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/bodruddoza-redoy-637789197/)  
-- 🐦 [TwitterX](https://x.com/BodruddozaRedoy)  
-- 📧 [Email](mailto:bodruddozaredoy@gmail.com)  
-
----
-
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=BodruddozaRedoy&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###
-
-⭐️ *Let’s build something awesome together!*
