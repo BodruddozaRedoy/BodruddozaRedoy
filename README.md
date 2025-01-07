@@ -103,7 +103,7 @@
 
 <div align="center">
   <img href="https://github-readme-stats.vercel.app/api?username=BodruddozaRedoy&show_icons=true&theme=radical" target="_blank">
-  <img href="https://streak-stats.demolab.com?user=BodruddozaRedoy&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" target="_blank">
+  <img href="https://streak-stats.demolab.com?user=BodruddozaRedoy&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
     
 
