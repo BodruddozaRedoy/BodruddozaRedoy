@@ -54,4 +54,12 @@ A web app built using React, React Router, and Firebase for authentication and r
 
 ---
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
+
 ⭐️ *Let’s build something awesome together!*
