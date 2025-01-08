@@ -39,7 +39,7 @@
 
 ###
 
-<p align="left">I'm from Dhaka, Bangladesh<br><br>- 🔭  I’m currently learning Express.js and building an Inventory Management App to enhance my backend skills.<br>- 🌱 I’m improving my expertise in MongoDB Aggregation and REST API development.<br>- 👯 I’m looking to collaborate on open-source MERN projects.<br>- 💬 Ask me about JavaScript, React, or Node.js.<br>- 📫 How to reach me: <a href="mailto:bodruddozaredoy@gmail.com?subject=Hello&body=I%20am%20interested%20in%20working%20with%20you.">bodruddozaredoy@gmail.com</a><br>- ⚡ Fun fact: I love solving coding challenges and exploring new tools.</p>
+<p align="left">I'm from Dhaka, Bangladesh<br><br>- 🔭  I’m currently learning Express.js and building an Inventory Management App to enhance my backend skills.<br>- 🌱 I’m improving my expertise in MongoDB Aggregation and REST API development.<br>- 👯 I’m looking to collaborate on open-source MERN projects.<br>- 💬 Ask me about JavaScript, React, or Node.js.<br>- 📫 How to reach me: <a href="mailto:bodruddozaredoy@gmail.com?subject=Hello,%20I%20am%20interested%20in%20working%20with%20you.">bodruddozaredoy@gmail.com</a><br>- ⚡ Fun fact: I love solving coding challenges and exploring new tools.</p>
 
 ###
 
