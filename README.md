@@ -14,7 +14,7 @@
   <a href="https://www.facebook.com/bodruddozaredoy" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
-  <a href="https://wa.me/+8801618514469?text=Hello%20there!%20I%27d%20like%20to%20connect%20with%20you." target="_blank">
+  <a href="https://wa.me/+8801618514469?text=Hello%20there!%20I%27d%20like%20to%20work%20with%20you." target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
 </div>
