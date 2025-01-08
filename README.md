@@ -102,8 +102,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="GitHub Streak" />
-  <img src="https://streak-stats.demolab.com?user=BodruddozaRedoy&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" width="50%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=BodruddozaRedoy&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" width="50%" alt="streak graph"  />
 </div>
 
 ###
