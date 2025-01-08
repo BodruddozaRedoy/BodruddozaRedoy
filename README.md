@@ -102,7 +102,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=BodruddozaRedoy&theme=dark&short_numbers=true&mode=weekly" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ###
