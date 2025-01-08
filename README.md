@@ -102,7 +102,7 @@
 ###
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=BodruddozaRedoy&theme=dark&short_numbers=true&mode=weekly" alt="GitHub Streak" /></a>
+  <img src="https://streak-stats.demolab.com?user=BodruddozaRedoy&theme=dark&short_numbers=true&mode=weekly" alt="GitHub Streak" />
 </div>
 
 ###
