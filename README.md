@@ -56,8 +56,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://github.com/user-attachments/assets/18e01b8a-04fc-445e-8015-1eaedde729ab
-" height="40" alt="github logo"  />
+  <img src="https://img.icons8.com/?size=100&id=12599&format=png&color=228BE6" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=e8c900" height="40" alt="express logo"  />
   <img width="12" />
