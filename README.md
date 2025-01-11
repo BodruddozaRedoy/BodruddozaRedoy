@@ -31,7 +31,7 @@
 
 ###
 
-<h5 align="center">I'm a Junior MERN Stack Developer passionate about building user-friendly web applications and learning new technologies to solve real-world problems.</h5>
+<h5 align="center">I'm a Junior Full Stack Developer passionate about building user-friendly web applications and learning new technologies to solve real-world problems.</h5>
 
 ###
 
