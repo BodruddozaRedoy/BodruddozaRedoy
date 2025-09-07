@@ -107,6 +107,11 @@
   <img src="https://streak-stats.demolab.com?user=BodruddozaRedoy&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" width="50%" alt="streak graph"  />
 </div>
 
+<div align="center" style="padding-top: 20px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=juyel66&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+</div>
+
+
 ###
 
 <br clear="both">
