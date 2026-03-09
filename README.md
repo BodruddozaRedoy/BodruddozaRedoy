@@ -76,7 +76,7 @@
   <!-- Backend -->
   <img src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=e8c900" height="40" alt="express logo"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" height="40" alt="nestjs logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"/>
 
   <img width="24"/>
 
