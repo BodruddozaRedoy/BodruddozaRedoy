@@ -1,148 +1,148 @@
 <div align="center">
-  <img height="100%" width="100%" src="https://github.com/BodruddozaRedoy/BodruddozaRedoy/blob/main/MyGithubBanner.png"  />
+  <img src="https://github.com/BodruddozaRedoy/BodruddozaRedoy/blob/main/MyGithubBanner.png?raw=true" width="100%" alt="Banner" />
 </div>
-
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/bodruddoza-redoy-637789197/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
   <a href="https://x.com/BodruddozaRedoy" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
   </a>
-  <a href="https://www.facebook.com/bodruddozaredoy" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  <a href="https://wa.me/+8801758383869" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" />
   </a>
-  <a href="https://wa.me/+8801758383869?text=Hello%20there!%20I%27d%20like%20to%20work%20with%20you." target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  <a href="mailto:bodruddozaredoy@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
   </a>
+  <br/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=BodruddozaRedoy.BodruddozaRedoy&" alt="visitors" />
 </div>
 
-###
+<hr />
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=BodruddozaRedoy.BodruddozaRedoy&"  />
-</div>
-
-###
-
-<h1 align="center">Hey there 👋 I'm Bodruddoza Redoy</h1>
-<div align="center">
+  <h1>Hi 👋, I'm <span color="#36BCF7">Bodruddoza Redoy</span></h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Developer;Full+Stack+Developer;App+Developer;Web+Developer" alt="Typing SVG" />
 </div>
-###
 
+### 👩‍💻 About Me
+- 🔭 I’m currently building an **Inventory Management App** to master advanced backend patterns.
+- 🌱 Improving my expertise in **MongoDB Aggregation** and **Next.js Server Actions**.
+- 👯 I’m looking to collaborate on **Open Source MERN/Full Stack projects**.
+- 💬 Ask me about **JavaScript, React, or Node.js**.
+- 🌐 Portfolio: [devredoy.com](https://www.devredoy.com/)
+- ⚡ Fun fact: I love turning coffee into clean, scalable code.
 
-<h5 align="center">I'm a Full Stack Developer passionate about building user-friendly web and mobile applications and learning new technologies to solve real-world problems.</h5>
+<hr />
 
-###
+### 🛠️ Professional Skill Set
 
-<h3 align="left">👩‍💻  About Me</h3>
+#### 💻 Programming Languages
+<table width="100%">
+  <tr>
+    <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=js" width="40"/><br/>JavaScript</td>
+    <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=ts" width="40"/><br/>TypeScript</td>
+    <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=c" width="40"/><br/>C</td>
+    <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=cpp" width="40"/><br/>C++</td>
+    <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=dart" width="40"/><br/>Dart</td>
+  </tr>
+</table>
 
-###
+#### 🎨 Frontend Development
+<table width="100%">
+  <tr>
+    <td align="center" width="16%"><img src="https://skillicons.dev/icons?i=react" width="40"/><br/>React.js</td>
+    <td align="center" width="16%"><img src="https://skillicons.dev/icons?i=nextjs" width="40"/><br/>Next.js</td>
+    <td align="center" width="16%"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br/>Tailwind</td>
+    <td align="center" width="16%"><img src="https://skillicons.dev/icons?i=redux" width="40"/><br/>Redux/Zustand</td>
+    <td align="center" width="16%"><img src="https://img.icons8.com/color/48/null/iphone.png" width="40"/><br/>React Native</td>
+    <td align="center" width="16%"><img src="https://img.icons8.com/color/48/null/browser-registration.png" width="40"/><br/>Cross-Browser</td>
+  </tr>
+</table>
 
-<p align="left">I'm from Dhaka, Bangladesh<br><br>- 🔭  I’m currently learning Express.js and building an Inventory Management App to enhance my backend skills.<br>- 🌱 I’m improving my expertise in MongoDB Aggregation and REST API development.<br>- 👯 I’m looking to collaborate on open-source MERN projects.<br>- 💬 Ask me about JavaScript, React, or Node.js.<br>- 📫 How to reach me: <a href="mailto:bodruddozaredoy@gmail.com?subject=Hello,%20I%20am%20interested%20in%20working%20with%20you.">bodruddozaredoy@gmail.com</a><br>- ⚡ Fun fact: I love solving coding challenges and exploring new tools.<br>-🌐 Portfolio Website: <a href="https://www.devredoy.com/">DevRedoy</a></p>
+#### ⚙️ Backend & Database
+<table width="100%">
+  <tr>
+    <td align="center" width="14%"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br/>Node.js</td>
+    <td align="center" width="14%"><img src="https://skillicons.dev/icons?i=express" width="40"/><br/>Express</td>
+    <td align="center" width="14%"><img src="https://skillicons.dev/icons?i=nestjs" width="40"/><br/>NestJS</td>
+    <td align="center" width="14%"><img src="https://skillicons.dev/icons?i=prisma" width="40"/><br/>Prisma</td>
+    <td align="center" width="14%"><img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br/>MongoDB</td>
+    <td align="center" width="14%"><img src="https://skillicons.dev/icons?i=postgres" width="40"/><br/>PostgreSQL</td>
+    <td align="center" width="14%"><img src="https://img.icons8.com/color/48/null/lock.png" width="40"/><br/>JWT/Auth</td>
+  </tr>
+</table>
 
-###
-
-<h3 align="left">🛠️ Technologies & Tools</h3>
-
-###
-
-<div align="left">
-
-  <!-- Programming Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"/>
-
-  <img width="24"/>
-
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"/>
-
-  <img width="24"/>
-
-  <!-- Backend -->
-  <img src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=e8c900" height="40" alt="express logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"/>
-
-  <img width="24"/>
-
-  <!-- Database / ORM -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" height="40" alt="prisma logo"/>
-
-  <img width="24"/>
-
-  <!-- Tools & DevOps -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>
-  <img width="12"/>
-  <img src="https://img.icons8.com/?size=100&id=12599&format=png&color=228BE6" height="40" alt="github logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" alt="docker logo"/>
-
-  <img width="24"/>
-
-  <!-- CMS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"/>
-
+#### 🛠️ Tools & Platforms
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,npm,postman,firebase,vercel,netlify&theme=dark" />
+  <p><i>CI/CD | Version Control | Deployment</i></p>
 </div>
 
-###
+#### 🌟 Creative & CMS
+<table width="100%">
+  <tr>
+    <td align="center" width="25%"><img src="https://skillicons.dev/icons?i=figma" width="40"/><br/>Figma</td>
+    <td align="center" width="25%"><img src="https://skillicons.dev/icons?i=ai" width="40"/><br/>Illustrator</td>
+    <td align="center" width="25%"><img src="https://skillicons.dev/icons?i=wordpress" width="40"/><br/>WordPress</td>
+    <td align="center" width="25%"><img src="https://img.icons8.com/color/48/null/shopify.png" width="40"/><br/>Shopify</td>
+  </tr>
+</table>
 
-<h3 align="left">🛠️ External Skills</h3>
+<hr />
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-</div>
-
-###
-
-<h3 align="left"> 📊 GitHub Stats</h3>
-
-###
+### 🚀 Unique Section: My Coding Focus & Activity
+*This section tracks my current learning progress and contribution activity.*
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BodruddozaRedoy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" width="40%" height="100%" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BodruddozaRedoy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" width="40%" height="170" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=BodruddozaRedoy&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" width="50%" alt="streak graph"  />
+  <img src="https://img.shields.io/badge/Current_Focus-Full_Stack_Development-36BCF7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-Advanced_Microservices-yellow?style=for-the-badge" />
 </div>
 
-<div align="center" style="padding-top: 20px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=juyel66&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+<br/>
+
+<div align="center">
+  <h3>The Contribution Snake 🐍</h3>
+  <img src="https://github-contribution-grid-snake.vercel.app/api/github?user=BodruddozaRedoy&color_snake=%2336BCF7&outputs=svg" alt="Snake Animation" />
 </div>
 
+<br/>
 
-###
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h4>🧠 Soft Skills</h4>
+      <ul>
+        <li>Self-Learning & Adaptability</li>
+        <li>Critical Thinking</li>
+        <li>Clear Technical Communication</li>
+        <li>Creative Problem Solving</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h4>📊 GitHub Health</h4>
+      <img src="https://github-readme-stats.vercel.app/api?username=BodruddozaRedoy&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" width="100%" />
+    </td>
+  </tr>
+</table>
 
-<br clear="both">
+<hr />
 
-<h3 align="center">⭐️ Let’s build something awesome together!</h2>
+### 📈 Stats & Trophies
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BodruddozaRedoy&layout=compact&theme=dracula&hide_border=true&bg_color=00000000" width="45%" />
+  <img src="https://streak-stats.demolab.com?user=BodruddozaRedoy&theme=dracula&hide_border=true&background=00000000" width="45%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BodruddozaRedoy&theme=radical&no-frame=true&no-bg=true&margin-w=4"/>
+</div>
+
+<br />
+
+<div align="center">
+  <h3>⭐️ Let’s build something awesome together!</h3>
+  <p>I'm currently available for freelance work and interesting open-source collaborations.</p>
+  <a href="mailto:bodruddozaredoy@gmail.com"><strong>Get in Touch ✉️</strong></a>
+</div>
