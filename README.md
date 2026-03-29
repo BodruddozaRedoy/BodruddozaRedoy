@@ -26,13 +26,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Developer;Full+Stack+Developer;App+Developer;Web+Developer" alt="Typing SVG" />
 </div>
 
-### 👩‍💻 About Me
-- 🔭 I’m currently building an **Inventory Management App** to master advanced backend patterns.
-- 🌱 Improving my expertise in **MongoDB Aggregation** and **Next.js Server Actions**.
-- 👯 I’m looking to collaborate on **Open Source MERN/Full Stack projects**.
-- 💬 Ask me about **JavaScript, React, or Node.js**.
+### 👨‍💻 About Me
+- 🚀 I’m a **Full Stack Developer** focused on building modern, scalable, and user-friendly web applications.
+- 💻 I work with **JavaScript, TypeScript, React, Next.js, Node.js, Express.js, and NestJS**.
+- 🗄️ Experienced with **MongoDB, PostgreSQL, Prisma, and Mongoose** for building robust backend systems.
+- 🎨 I enjoy crafting clean and responsive UIs with **Tailwind CSS**, while keeping performance and user experience in mind.
+- 📱 Also experienced in **React Native** for building cross-platform mobile applications.
+- 🌱 Currently sharpening my skills in **advanced backend architecture, scalable APIs, and real-world full stack system design**.
+- 🤝 Open to collaborating on **MERN / Full Stack / React / React Native** projects.
+- 💬 Ask me about **JavaScript, TypeScript, React, Next.js, Node.js, Express, MongoDB, or PostgreSQL**.
 - 🌐 Portfolio: [devredoy.com](https://www.devredoy.com/)
-- ⚡ Fun fact: I love turning coffee into clean, scalable code.
+- ⚡ Fun fact: I love turning ideas into polished, production-ready applications.
 
 <hr />
 
