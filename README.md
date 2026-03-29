@@ -27,8 +27,8 @@
 </div>
 
 ### 👨‍💻 About Me
-- 🚀 I’m a **Full Stack Developer** focused on building modern, scalable, and user-friendly web applications.
-- 💻 I work with **JavaScript, TypeScript, React, Next.js, Node.js, Express.js, and NestJS**.
+- 🚀 I’m a **Full Stack Developer** focused on building modern, scalable, and user-friendly web and mobile applications.
+- 💻 I work with **JavaScript, TypeScript, React, React Native, Next.js, Node.js, Express.js, and NestJS**.
 - 🗄️ Experienced with **MongoDB, PostgreSQL, Prisma, and Mongoose** for building robust backend systems.
 - 🎨 I enjoy crafting clean and responsive UIs with **Tailwind CSS**, while keeping performance and user experience in mind.
 - 📱 Also experienced in **React Native** for building cross-platform mobile applications.
