@@ -28,8 +28,11 @@
 ###
 
 <h1 align="center">Hey there 👋 I'm Bodruddoza Redoy</h1>
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Developer;App+Developer;Web+Developer;Full+Stack+Developer" alt="Typing SVG" />
+</div>
 ###
+
 
 <h5 align="center">I'm a Full Stack Developer passionate about building user-friendly web and mobile applications and learning new technologies to solve real-world problems.</h5>
 
