@@ -29,7 +29,7 @@
 
 <h1 align="center">Hey there 👋 I'm Bodruddoza Redoy</h1>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Developer;App+Developer;Web+Developer;Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Developer;Full+Stack+Developer;App+Developer;Web+Developer" alt="Typing SVG" />
 </div>
 ###
 
